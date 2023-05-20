@@ -1,0 +1,7 @@
+{
+  "name": "survival-rpg",
+  "devDependencies": {
+    "@tsconfig/esm": "^1.0.3",
+    "typescript": "^5.0.4"
+  }
+}

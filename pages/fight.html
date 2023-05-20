@@ -1,0 +1,11 @@
+<h1>Fight</h1>
+<a href="../index.html">Back to menu</a>
+<script>
+  import getCurrentFight from "../src/Fight";
+
+  const fight = getCurrentFight();
+
+  if (!fight) {
+    window.location.href = "/index.html";
+  }
+</script>
